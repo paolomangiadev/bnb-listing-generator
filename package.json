@@ -4,7 +4,7 @@
   "description": "Generator of bnb listing",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/paolomangiadev/bnb-listing-generator#readme",
   "dependencies": {
     "typescript": "^3.1.6"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
   }
 }
