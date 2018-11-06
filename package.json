@@ -1,0 +1,29 @@
+{
+  "name": "bnb-listing-generator",
+  "version": "1.0.0",
+  "description": "Generator of bnb listing",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolomangiadev/bnb-listing-generator.git"
+  },
+  "keywords": [
+    "bnb",
+    "airbnb",
+    "listing",
+    "listinggenerator",
+    "generator"
+  ],
+  "author": "netglitch",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/paolomangiadev/bnb-listing-generator/issues"
+  },
+  "homepage": "https://github.com/paolomangiadev/bnb-listing-generator#readme",
+  "dependencies": {
+    "typescript": "^3.1.6"
+  }
+}
